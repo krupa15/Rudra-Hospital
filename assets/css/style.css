@@ -4653,8 +4653,8 @@ select {
 }
 @media (min-width: 992px) {
   .footer-section.style-1 .footer-top {
-    padding-top: 120px;
-    padding-bottom: 110px;
+    padding-top: 50px;
+    padding-bottom: 20px;
   }
 }
 .footer-section.style-1 .footer-top h3 {
