@@ -4783,4 +4783,19 @@ select {
 .pb-20 {
   padding-bottom: 20px;
 }
+
+.card-info {
+  border: 5px solid #fff;
+  box-shadow: 3px 3px 10px #ccc;
+}
+
+.padbot-25 {
+  padding-bottom: 25px;
+}
+
+@media (min-width: 300px) and (max-width: 400px) {
+  .padbot-25 {
+    padding-bottom: 0px !important;
+  }
+}
 /*# sourceMappingURL=style.css.map */
