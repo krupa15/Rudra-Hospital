@@ -4798,4 +4798,14 @@ select {
     padding-bottom: 0px !important;
   }
 }
+
+.logo-my, .logo-footer {
+  height: 80px;
+}
+
+@media (min-width: 300px) and (max-width: 400px) {
+  .logo-my {
+    height: 40px;
+  }
+}
 /*# sourceMappingURL=style.css.map */
