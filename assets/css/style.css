@@ -4803,6 +4803,15 @@ select {
   height: 80px;
 }
 
+.logo-mobile {
+  height: 50px;
+}
+
+.logo-footer {
+  height: 80px;
+  margin-bottom: 20px;
+}
+
 @media (min-width: 300px) and (max-width: 400px) {
   .logo-my {
     height: 40px;
